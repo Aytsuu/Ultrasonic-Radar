@@ -8,7 +8,7 @@
 - **Ultrasonic Sensor**
 - **Servo Motor**
 - **LCD**
-- **Keypard**
+- **Keypad**
 
 ## Integrated Development Environment
 - [**Arduino IDE**](https://www.arduino.cc/en/software)
